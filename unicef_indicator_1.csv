@@ -1,0 +1,320 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2023,10.9,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Afghanistan,AF,AFG,4,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2023,15.6,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Afghanistan,AF,AFG,4,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2023,13.3,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Albania,AL,ALB,8,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2010,2.1,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Albania,AL,ALB,8,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2010,3.4,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Albania,AL,ALB,8,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2010,2.8,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Algeria,DZ,DZA,12,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,1.3,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Algeria,DZ,DZA,12,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,2.5,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Algeria,DZ,DZA,12,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,1.9,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Angola,AO,AGO,24,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,10.4,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Angola,AO,AGO,24,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,8.9,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Angola,AO,AGO,24,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,9.7,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Argentina,AR,ARG,32,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,1.5,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Argentina,AR,ARG,32,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,2.1,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Argentina,AR,ARG,32,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,1.8,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Armenia,AM,ARM,51,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,2.7,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Armenia,AM,ARM,51,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,4.9,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Armenia,AM,ARM,51,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,3.9,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Bangladesh,BD,BGD,50,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,3,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Bangladesh,BD,BGD,50,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,8.7,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Bangladesh,BD,BGD,50,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,5.9,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Barbados,BB,BRB,52,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,0.8,Female,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Barbados,BB,BRB,52,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,1.7,Male,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Barbados,BB,BRB,52,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,1.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Belarus,BY,BLR,112,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,3.4,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Belarus,BY,BLR,112,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,4.6,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Belarus,BY,BLR,112,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,4,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Belize,BZ,BLZ,84,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2013,1.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Belize,BZ,BLZ,84,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2013,3.2,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Belize,BZ,BLZ,84,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2013,2.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Benin,BJ,BEN,204,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,14.2,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Benin,BJ,BEN,204,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,17.8,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Benin,BJ,BEN,204,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,16,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Bhutan,BT,BTN,64,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2010,1.7,Female,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Bhutan,BT,BTN,64,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2010,1.6,Male,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Bhutan,BT,BTN,64,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2010,1.7,Total,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+"Bolivia, Plurinational State of",BO,BOL,68,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,11.7,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+"Bolivia, Plurinational State of",BO,BOL,68,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,13,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+"Bolivia, Plurinational State of",BO,BOL,68,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,12.3,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Brazil,BR,BRA,76,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,0.7,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Brazil,BR,BRA,76,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,1.7,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Brazil,BR,BRA,76,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,1.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Burkina Faso,BF,BFA,854,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,30.4,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Burkina Faso,BF,BFA,854,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,38.2,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Burkina Faso,BF,BFA,854,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,34.3,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Burundi,BI,BDI,108,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,19.4,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Burundi,BI,BDI,108,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,21.5,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Burundi,BI,BDI,108,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,20.5,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Cambodia,KH,KHM,116,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,13.6,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Cambodia,KH,KHM,116,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,13.4,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Cambodia,KH,KHM,116,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,13.5,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Cameroon,CM,CMR,120,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2014,32.8,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Cameroon,CM,CMR,120,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2014,38.5,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Cameroon,CM,CMR,120,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2014,33.4,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Central African Republic,CF,CAF,140,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,19.5,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Central African Republic,CF,CAF,140,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,17.3,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Central African Republic,CF,CAF,140,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,18.4,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Chad,TD,TCD,148,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,27.8,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Chad,TD,TCD,148,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,33.8,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Chad,TD,TCD,148,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,30.9,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Chile,CL,CHL,152,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,1.4,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Chile,CL,CHL,152,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,3.3,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Chile,CL,CHL,152,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,2.3,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Colombia,CO,COL,170,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,0.8,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Colombia,CO,COL,170,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,1.8,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Colombia,CO,COL,170,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,1.3,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Comoros,KM,COM,174,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,4.9,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Comoros,KM,COM,174,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,6.7,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Comoros,KM,COM,174,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,5.8,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Congo,CG,COG,178,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,11.7,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Congo,CG,COG,178,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,9.9,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Congo,CG,COG,178,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,10.8,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Costa Rica,CR,CRI,188,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,2.7,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Costa Rica,CR,CRI,188,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,4,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Costa Rica,CR,CRI,188,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,3.4,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Ivory Coast,CI,CIV,384,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,10.5,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Ivory Coast,CI,CIV,384,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,12,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Ivory Coast,CI,CIV,384,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,11.2,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,3.7,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,4.3,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,4,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,9.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,9.2,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,9.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Dominican Republic,DO,DOM,214,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,2,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Dominican Republic,DO,DOM,214,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,4.1,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Dominican Republic,DO,DOM,214,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,3.1,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Ecuador,EC,ECU,218,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,3.9,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Ecuador,EC,ECU,218,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,4.5,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Ecuador,EC,ECU,218,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,4.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Egypt,EG,EGY,818,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,1.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Egypt,EG,EGY,818,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,3.1,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Egypt,EG,EGY,818,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,2.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+El Salvador,SV,SLV,222,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,1.5,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+El Salvador,SV,SLV,222,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,5.6,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+El Salvador,SV,SLV,222,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,3.6,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Swaziland,SZ,SWZ,748,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,11.7,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Swaziland,SZ,SWZ,748,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,11,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Swaziland,SZ,SWZ,748,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,11.3,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Ethiopia,ET,ETH,231,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,32.1,Female,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Ethiopia,ET,ETH,231,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,48.3,Male,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Ethiopia,ET,ETH,231,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,40.5,Total,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Fiji,FJ,FJI,242,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,12.3,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Fiji,FJ,FJI,242,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,18.8,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Fiji,FJ,FJI,242,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,15.6,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Gabon,GA,GAB,266,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,3.9,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Gabon,GA,GAB,266,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,7,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Gabon,GA,GAB,266,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,5.4,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Gambia,GM,GMB,270,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2023,14.1,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Gambia,GM,GMB,270,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2023,16,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Gambia,GM,GMB,270,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2023,15.1,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Georgia,GE,GEO,268,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,0.9,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Georgia,GE,GEO,268,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,2.1,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Georgia,GE,GEO,268,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,1.5,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Ghana,GH,GHA,288,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,15.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Ghana,GH,GHA,288,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,14.5,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Ghana,GH,GHA,288,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,14.8,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Guatemala,GT,GTM,320,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,4.3,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Guatemala,GT,GTM,320,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,12.1,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Guatemala,GT,GTM,320,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,8.3,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Guinea,GN,GIN,324,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,17.8,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Guinea,GN,GIN,324,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,21.1,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Guinea,GN,GIN,324,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,19.5,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Guinea-Bissau,GW,GNB,624,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,12.9,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Guinea-Bissau,GW,GNB,624,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,16.9,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Guinea-Bissau,GW,GNB,624,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,14.9,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Guyana,GY,GUY,328,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,4.6,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Guyana,GY,GUY,328,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,5.1,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Guyana,GY,GUY,328,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,4.9,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Haiti,HT,HTI,332,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,20.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Haiti,HT,HTI,332,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,22.4,Male,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Haiti,HT,HTI,332,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,21.6,Total,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Honduras,HN,HND,340,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,7.9,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Honduras,HN,HND,340,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,16.2,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Honduras,HN,HND,340,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,12.2,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+India,IN,IND,356,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,3.1,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+India,IN,IND,356,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,5.3,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+India,IN,IND,356,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,4.3,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Indonesia,ID,IDN,360,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,1.7,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Iraq,IQ,IRQ,368,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,1.9,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Iraq,IQ,IRQ,368,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,4.3,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Iraq,IQ,IRQ,368,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,3.1,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Jamaica,JM,JAM,388,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,2.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Jamaica,JM,JAM,388,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,3.1,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Jamaica,JM,JAM,388,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,2.7,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Jordan,JO,JOR,400,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,0.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Jordan,JO,JOR,400,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,2.2,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Jordan,JO,JOR,400,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,1.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Kenya,KE,KEN,404,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,16.4,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Kenya,KE,KEN,404,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,20.9,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Kenya,KE,KEN,404,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,18.8,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Kiribati,KI,KIR,296,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,5.5,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Kiribati,KI,KIR,296,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,8.6,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Kiribati,KI,KIR,296,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,7.1,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Kyrgyzstan,KG,KGZ,417,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,15.6,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Kyrgyzstan,KG,KGZ,417,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,24.2,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Kyrgyzstan,KG,KGZ,417,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,20.1,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Lao People's Democratic Republic,LA,LAO,418,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,26.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Lao People's Democratic Republic,LA,LAO,418,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,26.3,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Lao People's Democratic Republic,LA,LAO,418,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,26.3,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Lesotho,LS,LSO,426,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,5.4,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Lesotho,LS,LSO,426,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,11.1,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Lesotho,LS,LSO,426,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,8.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Liberia,LR,LBR,430,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,21.5,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Liberia,LR,LBR,430,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,20.8,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Liberia,LR,LBR,430,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,21.1,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Madagascar,MG,MDG,450,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,26.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Madagascar,MG,MDG,450,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,33.4,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Madagascar,MG,MDG,450,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,29.8,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Malawi,MW,MWI,454,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,8,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Malawi,MW,MWI,454,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,11.9,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Malawi,MW,MWI,454,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,10,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Mali,ML,MLI,466,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,19.8,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mali,ML,MLI,466,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,22.1,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mali,ML,MLI,466,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,21,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mauritania,MR,MRT,478,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,10.4,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mauritania,MR,MRT,478,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,14.8,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mauritania,MR,MRT,478,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,12.6,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mexico,MX,MEX,484,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,1.9,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mexico,MX,MEX,484,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,5,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mexico,MX,MEX,484,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,3.5,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mongolia,MN,MNG,496,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,6.5,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mongolia,MN,MNG,496,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,9.1,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mongolia,MN,MNG,496,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,7.9,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Montenegro,ME,MNE,499,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,6.9,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Montenegro,ME,MNE,499,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,8.4,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Montenegro,ME,MNE,499,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,7.7,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mozambique,MZ,MOZ,508,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,12.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mozambique,MZ,MOZ,508,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,13.9,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Mozambique,MZ,MOZ,508,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,13.1,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Myanmar,MM,MMR,104,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,7.6,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Myanmar,MM,MMR,104,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,8.7,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Myanmar,MM,MMR,104,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,8.1,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Nepal,NP,NPL,524,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2014,19.3,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Nepal,NP,NPL,524,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2014,19,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Nepal,NP,NPL,524,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2014,19.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Nicaragua,NI,NIC,558,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,17.9,Female,,%,Reanalysed,Free,End of fieldwork,10 to 17 years old
+Nicaragua,NI,NIC,558,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,33.3,Male,,%,Reanalysed,Free,End of fieldwork,10 to 17 years old
+Nicaragua,NI,NIC,558,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,25.9,Total,,%,Reanalysed,Free,End of fieldwork,10 to 17 years old
+Niger,NE,NER,562,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,27.3,Female,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Niger,NE,NER,562,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,29.9,Male,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Niger,NE,NER,562,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,28.8,Total,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Nigeria,NG,NGA,566,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,24.8,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Nigeria,NG,NGA,566,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,28.9,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Nigeria,NG,NGA,566,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,26.9,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,1.6,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,3.4,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,2.4,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Pakistan,PK,PAK,586,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,5.1,Female,,%,Reanalysed,Free,End of fieldwork,10 to 17 years old
+Pakistan,PK,PAK,586,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,12.4,Male,,%,Reanalysed,Free,End of fieldwork,10 to 17 years old
+Pakistan,PK,PAK,586,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,9,Total,,%,Reanalysed,Free,End of fieldwork,10 to 17 years old
+Panama,PA,PAN,591,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,1.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Panama,PA,PAN,591,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,3.2,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Panama,PA,PAN,591,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,2.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Paraguay,PY,PRY,600,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,11.5,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Paraguay,PY,PRY,600,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,19.4,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Paraguay,PY,PRY,600,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,15.5,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Peru,PE,PER,604,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,15.7,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Peru,PE,PER,604,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,16.7,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Peru,PE,PER,604,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,16.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Philippines,PH,PHL,608,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,1.3,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Philippines,PH,PHL,608,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,1.7,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Philippines,PH,PHL,608,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,1.5,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Rwanda,RW,RWA,646,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,3.2,Female,,%,Reanalysed,Free,End of fieldwork,6 to 17 years old
+Rwanda,RW,RWA,646,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,3.9,Male,,%,Reanalysed,Free,End of fieldwork,6 to 17 years old
+Rwanda,RW,RWA,646,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,3.5,Total,,%,Reanalysed,Free,End of fieldwork,6 to 17 years old
+Saint Lucia,LC,LCA,662,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,1.4,Female,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Saint Lucia,LC,LCA,662,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,2.4,Male,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Saint Lucia,LC,LCA,662,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,1.9,Total,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Samoa,WS,WSM,882,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,10.8,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Samoa,WS,WSM,882,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,14.9,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Samoa,WS,WSM,882,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,13,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Sao Tome and Principe,ST,STP,678,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,7.4,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Sao Tome and Principe,ST,STP,678,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,6.1,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Sao Tome and Principe,ST,STP,678,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,6.7,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Senegal,SN,SEN,686,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,8.6,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Senegal,SN,SEN,686,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,25.7,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Senegal,SN,SEN,686,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,17.1,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Serbia,RS,SRB,688,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,6.8,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Serbia,RS,SRB,688,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,11.1,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Serbia,RS,SRB,688,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,9.1,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Sierra Leone,SL,SLE,694,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,19.6,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Sierra Leone,SL,SLE,694,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,22.5,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Sierra Leone,SL,SLE,694,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,21,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Solomon Islands,SB,SLB,90,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,13.8,Female,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Solomon Islands,SB,SLB,90,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,13.8,Male,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Solomon Islands,SB,SLB,90,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,13.8,Total,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+South Africa,ZA,ZAF,710,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,1.3,Female,,%,Reanalysed,Free,End of fieldwork,7 to 17 years old
+South Africa,ZA,ZAF,710,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,2.4,Male,,%,Reanalysed,Free,End of fieldwork,7 to 17 years old
+South Africa,ZA,ZAF,710,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2015,1.9,Total,,%,Reanalysed,Free,End of fieldwork,7 to 17 years old
+Sri Lanka,LK,LKA,144,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,0.6,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Sri Lanka,LK,LKA,144,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,0.9,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Sri Lanka,LK,LKA,144,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,0.8,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+"Palestinian Territory, Occupied",PS,PSE,275,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,3.3,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+"Palestinian Territory, Occupied",PS,PSE,275,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,9.2,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+"Palestinian Territory, Occupied",PS,PSE,275,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,6.3,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Sudan,SD,SDN,736,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2014,15.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Sudan,SD,SDN,736,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2014,19.3,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Sudan,SD,SDN,736,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2014,15.3,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Suriname,SR,SUR,740,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,2.4,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Suriname,SR,SUR,740,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,4.4,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Suriname,SR,SUR,740,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2018,3.4,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Timor-Leste,TL,TLS,626,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,6.8,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Timor-Leste,TL,TLS,626,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,7.6,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Timor-Leste,TL,TLS,626,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,7.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Togo,TG,TGO,768,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,31.2,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Togo,TG,TGO,768,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,34.5,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Togo,TG,TGO,768,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,32.9,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Tonga,TO,TON,776,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,18.5,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Tonga,TO,TON,776,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,32.9,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Tonga,TO,TON,776,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,25.9,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Trinidad and Tobago,TT,TTO,780,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,3,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Trinidad and Tobago,TT,TTO,780,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,5.4,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Trinidad and Tobago,TT,TTO,780,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,4.2,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Tunisia,TN,TUN,788,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,1.1,Female,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Tunisia,TN,TUN,788,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,2.4,Male,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Tunisia,TN,TUN,788,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,1.8,Total,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Turkmenistan,TM,TKM,795,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,0.1,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Turkmenistan,TM,TKM,795,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,0.4,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Turkmenistan,TM,TKM,795,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2016,0.3,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Turks and Caicos Islands,TC,TCA,796,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,2.2,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Turks and Caicos Islands,TC,TCA,796,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,5.7,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Turks and Caicos Islands,TC,TCA,796,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,4.1,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Tuvalu,TV,TUV,798,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,4,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Tuvalu,TV,TUV,798,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,3.4,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Tuvalu,TV,TUV,798,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2020,3.7,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Turkey,TR,TUR,792,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,0.8,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Turkey,TR,TUR,792,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,2.9,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Turkey,TR,TUR,792,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,1.9,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Uganda,UG,UGA,800,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,11.8,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Uganda,UG,UGA,800,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,14.7,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Uganda,UG,UGA,800,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2017,13.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Ukraine,UA,UKR,804,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,2.1,Female,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Ukraine,UA,UKR,804,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,2.2,Male,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Ukraine,UA,UKR,804,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,2.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+"Tanzania, United Republic of",TZ,TZA,834,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,13,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+"Tanzania, United Republic of",TZ,TZA,834,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,16.9,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+"Tanzania, United Republic of",TZ,TZA,834,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,15,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Uruguay,UY,URY,858,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2010,2.3,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Uruguay,UY,URY,858,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2010,5.1,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Uruguay,UY,URY,858,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2010,3.7,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Uzbekistan,UZ,UZB,860,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,14.5,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Uzbekistan,UZ,UZB,860,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,21.1,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Uzbekistan,UZ,UZB,860,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2022,17.8,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Vanuatu,VU,VUT,548,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2013,15.8,Female,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Vanuatu,VU,VUT,548,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2013,14.2,Male,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Vanuatu,VU,VUT,548,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2013,15,Total,,%,Reanalysed,Free,End of fieldwork,5 to 14 years old
+Vietnam,VN,VNM,704,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,6.2,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Vietnam,VN,VNM,704,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,5.2,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Vietnam,VN,VNM,704,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2021,5.7,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Yemen,YE,YEM,887,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2023,5.3,Female,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Yemen,YE,YEM,887,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2023,10,Male,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Yemen,YE,YEM,887,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2023,7.7,Total,,%,Reported,Free,End of fieldwork,5 to 17 years old
+Zambia,ZM,ZMB,894,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,20.1,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Zambia,ZM,ZMB,894,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,20.2,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Zambia,ZM,ZMB,894,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2012,20.2,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Zimbabwe,ZW,ZWE,716,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,19,Female,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Zimbabwe,ZW,ZWE,716,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,31.8,Male,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
+Zimbabwe,ZW,ZWE,716,Percentage of children (aged 5-17 years) engaged in child labour (economic activities),2019,25.6,Total,,%,Reanalysed,Free,End of fieldwork,5 to 17 years old
